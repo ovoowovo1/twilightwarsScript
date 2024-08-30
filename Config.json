@@ -1,0 +1,44 @@
+{
+    "combos": [
+        {
+            "name": "百裂拳",
+            "trigger_key": "v",
+            "sequence": [
+                "a",
+                "d",
+                "a",
+                "d",
+                "a",
+                "a",
+                "d"
+            ]
+        },
+        {
+            "name": "元氣玉",
+            "trigger_key": "z",
+            "sequence": [
+                "a",
+                "d",
+                "w",
+                "s",
+                "w",
+                "w"
+            ]
+        },
+        {
+            "name": "白鳥拳．裂",
+            "trigger_key": "x",
+            "sequence": [
+                "s",
+                "d",
+                "a",
+                "w",
+                "w"
+            ]
+        }
+    ],
+    "delay": {
+        "min": 0.000000001,
+        "max": 0.00000001
+    }
+}
