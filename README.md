@@ -21,7 +21,7 @@
 
 3. 運行 Python 腳本：
    ```
-   python skill2.py
+   py skill2.py
    ```
 
 4. 程式運行後，按下你在 `Config.json` 中定義的觸發鍵，對應的按鍵序列就會自動執行。
